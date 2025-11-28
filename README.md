@@ -1,1 +1,1 @@
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanhiizy&layout=compact&custom_title=Wakatime+Stats+since+May+2024)](https://github.com/anuraghazra/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanhiizy&layout=compact&custom_title=Wakatime+Stats+since+May+2024&v=2)](https://github.com/anuraghazra/github-readme-stats)
